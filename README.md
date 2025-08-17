@@ -1,0 +1,1 @@
+This robot is designed to extract data from invoices. It will process a file containing a collection of invoices, retrieving each one from a specified folder. For every invoice, it will extract the invoice number, invoice date, and grand total, then export the collected data into an Excel file.
